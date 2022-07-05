@@ -1,0 +1,89 @@
+body{
+    background-color: black;
+    font-family:  Calibri;
+    color: white;
+}
+
+.header{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.main{
+    padding-top: 30px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+a{
+    color: rgb(255, 255, 255);
+}
+span{
+    font-size: 25px;
+    margin-top: 40px;
+    padding-top: 30px;
+    color: white;
+    font-family:  Calibri;
+}
+table{
+    margin: 40px;
+    padding: 30px;
+   
+}
+td{
+    color:white;
+    padding-right: 40px;
+}
+h1{
+    font-size: 50px;
+    color:#80ffd4;
+    font-family:  Cosmic Sans;
+}
+h3{
+    font-size: 40px;
+}
+h5{
+    font-size: 25px;
+    font-family:  Cosmic Sans;
+}
+.self{
+    margin: 20px;
+    padding: 20px;
+    padding-left: 10px;
+    height:400px;
+    width: 400px;
+    
+}
+
+ul{
+    width: 700px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 20px;
+    padding-left: 30px;
+    list-style-type: none;
+}
+.company{
+    font-size: 35px;
+}
+.date{
+    font-size: 25px;
+    color:#80ffd4;
+}
+.work{
+    font-size: 20px;
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+    padding: 10px;
+    
+}
+.tab{
+    padding-left: 100px;
+    margin-left: 100px;
+}
+.connect{
+    font-size: 30px;
+}
