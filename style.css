@@ -7,14 +7,27 @@ body{
 .header{
     margin-top: 30px;
     margin-left: 30px;
+    margin-bottom: 30px;
+    padding-bottom: 10px;
 }
 
 .main{
-    padding-top: 30px;
-    margin-top: 30px;
-    margin-left: 30px;
+    background-color: rgb(33, 33, 33);
+    margin-left: 40px;
+    margin-bottom: 30px;
+    margin-right: 40px;
+    border-radius: 25px;
+}
+
+.exp,.edu,.con{
+    background-color: rgb(33, 33, 33);
+    padding: 20px;
+    margin:40px;
+    border-radius: 25px;
+    margin-bottom:50px;
 }
 a{
+    text-decoration: none;
     color: rgb(255, 255, 255);
 }
 span{
@@ -24,10 +37,12 @@ span{
     color: white;
     font-family:  Calibri;
 }
-table{
-    margin: 40px;
+.table{
+    margin-top: 30px;
     padding: 30px;
-   
+    margin-bottom: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 td{
     color:white;
@@ -63,7 +78,7 @@ ul{
     list-style-type: none;
 }
 .company{
-    font-size: 35px;
+    font-size: 30px;
 }
 .date{
     font-size: 25px;
@@ -77,12 +92,13 @@ ul{
     width: 40px;
     height: 40px;
     margin: 10px;
-    padding: 10px;
     
+    border-radius: 20px;
 }
 .tab{
     padding-left: 100px;
     margin-left: 100px;
+    padding-bottom: 10px;
 }
 .connect{
     font-size: 30px;
